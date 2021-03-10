@@ -10,10 +10,10 @@
 
 
 - 🔭 I’m currently open to job opportunities!
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning about Telegram bots.
 - 💬 Ask me about programming 💻, self-care 💪, and why we should all buy Oura Rings 💍.
 - 📫 How to reach me: Look at the top! ⬆️⬆️⬆️.
-- ⚡ Fun fact: I have a pug named Ben, in honor of one Benedict Cumberbatch 🐕.
+- ⚡ Fun fact: I have a pug named Ben, in honor of Benedict Cumberbatch 🐕.
 
 <!--
 **sergeikabuldzhanov/sergeikabuldzhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
