@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://sergei-dev.me">Portfolio</a> •
   <a href="https://linkedin.com/in/sergei-kabuldzhanov/">LinkedIn</a> •
-  <a href="https://assets.ctfassets.net/9h5h53767dyy/2NuFrVwgyYOmJrQoZEgTmi/b22c9f756e83a3df8436597b43a27950/Resume_2_.pdf">CV</a>
+  <a href="https://github.com/user-attachments/files/17490473/Resume.pdf">CV</a>
 </p>
 
 ---
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
